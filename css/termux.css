@@ -1,0 +1,219 @@
+body {
+    background-color: black;
+}
+
+body {
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-size: 100%;
+    color: white;
+}
+
+.termux {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tr {
+    font-size: 50px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    width: 100%;
+    margin-top: 150px;
+    gap: 200px;
+}
+
+.one {
+    display: flex;
+    font-size: 30px;
+    width: 600px;
+    text-align: justify;
+    margin-left: 20px;
+}
+
+.two {
+    display: flex;
+}
+
+.two > img {
+    width: 300px;
+    height: 200px;
+}
+
+.tr1 {
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tra > h1 {
+    font-size: 50px;
+}
+
+.tra {
+    /*width: 40px;*/
+    padding: 10px;
+    border: 3px solid white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*height: 20px;*/
+}
+
+.bot {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 20px;
+    gap: 10px;
+    width: 600px;
+}
+
+.bot > h2 {
+    font-size: 30px;
+    margin-bottom: 25px;
+    border: 3px solid #08efc5;
+    width: 180px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.bot > p {
+    font-size: 20px;
+}
+
+.thee {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.tr2 {
+    display: flex;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 20px;
+    gap: 10px;
+    width: 600px;
+    font-size: 20px;
+}
+
+.block > h2 {
+    font-size: 30px;
+    margin-bottom: 25px;
+    border: 3px solid #08efc5;
+    width: 120px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+
+
+.blo {
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 20px;
+    gap: 10px;
+    width: 600px;
+}
+
+.blo > h2 {
+    font-size: 30px;
+    margin-bottom: 25px;
+    border: 3px solid #08efc5;
+    width: 373px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+
+.gh {
+    font-size: 30px;
+    margin-bottom: 25px;
+    border: 3px solid #08efc5;
+    width: 373px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.bloc {
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 20px;
+    gap: 10px;
+    width: 600px;
+}
+
+.bloc > h2 {
+    font-size: 30px;
+    margin-bottom: 25px;
+    border: 3px solid #08efc5;
+    width: 145px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+
+
+.btm {
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 20px;
+    gap: 10px;
+    width: 600px;
+}
+
+.btm > h2 {
+    font-size: 30px;
+    margin-bottom: 25px;
+    border: 3px solid #08efc5;
+    width: 255px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+
+#btn {
+    width: 250px;
+    height: 75px;
+    margin-top: 200px;
+    border-radius: 20px;
+    border: 3px solid green;
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    -webkit-box-shadow: -2px -3px 13px 2px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -2px -3px 13px 2px rgba(34, 60, 80, 0.2);
+    box-shadow: -2px 0px 13px 2px rgba(237, 241, 245, 0.96);
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (orientation: portrait) {
+
+}
